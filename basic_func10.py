@@ -4,5 +4,5 @@
 
 # Return the opposite value of a.
 def main(a):
-    a = -a
+    a = - a
     return a
